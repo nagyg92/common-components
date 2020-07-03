@@ -1,0 +1,10 @@
+ {
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  border-bottom: 1px solid rgba(0,0,0,.1)
+}
